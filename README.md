@@ -1,3 +1,7 @@
 # bhai1.C
+<p>
 This is my first Git Repository.
-My name is Pushkar Singh.
+Ny name is Pushkar Singh.
+</p>
+
+  
